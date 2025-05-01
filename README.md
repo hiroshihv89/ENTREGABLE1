@@ -33,18 +33,18 @@ También incluye validaciones para evitar errores por entradas vacías o incompa
 1. Asegúrate de tener Python y NumPy instalados:
    ```bash
    pip install numpy
-Ejecuta el script:
+   ```
 
-bash
-Copiar
-Editar
-python ENTREGABLE1.py
-Sigue las instrucciones por consola para ingresar vectores, elegir propiedades y verificar los resultados.
+2. Ejecuta el script:
+   ```bash
+   python ENTREGABLE1.py
+   ```
 
-💡 Ejemplo de uso
-yaml
-Copiar
-Editar
+3. Sigue las instrucciones por consola para ingresar vectores, elegir propiedades y verificar los resultados.
+
+## 💡 Ejemplo de uso
+
+```
 Ingrese los elementos del vector A separados por espacios: 1 2 3
 Ingrese los elementos del vector B separados por espacios: 4 5 6
 
@@ -52,7 +52,10 @@ Conmutativa:
 A + B = [5. 7. 9.]
 B + A = [5. 7. 9.]
 ¿A + B == B + A? True
-🧑‍🎓 Créditos
-Alumno: Efrén Hiroshi Hernández Vicente
-Instructor: Saul Sneider Chavez Chico
-SENATI
+```
+
+## 🧑‍🎓 Créditos
+
+Alumno: **Efrén Hiroshi Hernández Vicente**  
+Instructor: **Saul Sneider Chavez Chico**  
+**SENATI**
